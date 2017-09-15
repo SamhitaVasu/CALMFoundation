@@ -15,11 +15,11 @@ Members must be part of at least one of C.A.L.M.’s tracks and attend most meet
 All officers have the responsibility to provide weekly updates (30 seconds to 1 minute long if video or audio) on Twitter with the hashtag, #CALM[SCHOOL_NAME]Chapter 
 Updates must be made under the officer’s Twitter handle for accountability purposes.
 These updates are for ensuring transparency and communication.
-Chapter Teacher Advisor - Selected on founding
-Term: Unlimited
-Job: Enforces school’s rules and regulations along with TED-Ed rules and regulations
-Chapter President - Elected by Chapter
-Term: One Year, Cannot serve for two consecutive terms
+1. Chapter Teacher Advisor - Selected on founding
+* Term: Unlimited
+* Job: Enforces school’s rules and regulations along with TED-Ed rules and regulations
+2. Chapter President - Elected by Chapter
+* Term: One Year, Cannot serve for two consecutive terms
 Jobs: Enforces C.A.L.M.’s bylaws, Runs assigned C.A.L.M. Chapter, Establishes specific bylaws for Chapter when necessary
 Chapter Vice President of Entrepreneurship - Elected by Chapter
 Term: One Year, Cannot serve for two consecutive terms
