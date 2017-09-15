@@ -18,18 +18,18 @@ These updates are for ensuring transparency and communication.
 ##### Chapter Teacher Advisor - Selected on founding
 * Term: Unlimited
 * Job: Enforces school’s rules and regulations along with TED-Ed rules and regulations
-2. Chapter President - Elected by Chapter
+##### Chapter President - Elected by Chapter
 * Term: One Year, Cannot serve for two consecutive terms
-Jobs: Enforces C.A.L.M.’s bylaws, Runs assigned C.A.L.M. Chapter, Establishes specific bylaws for Chapter when necessary
-Chapter Vice President of Entrepreneurship - Elected by Chapter
-Term: One Year, Cannot serve for two consecutive terms
-Job: Runs Weekly Meetings along with VP of TED-Ed
-Chapter Vice President of TED-Ed - Elected by Chapter
-Term: One Year, Cannot serve for two consecutive terms
-Job: Runs Weekly Meetings along with VP of Entrepreneurship
-Chapter Vice President of Applications and Gaming - Elected by Chapter
-Term: One Year, Cannot serve for two consecutive terms
-Job: (Before inception of VR League) Helps Chairperson design VR League, (After VR League inception) Runs Chapter’s division of the C.A.L.M. VR League, Expected to encourage the design and execution of new app ideas that further C.A.L.M.’s cause
+* Job: Enforces C.A.L.M.’s bylaws, Runs assigned C.A.L.M. Chapter, Establishes specific bylaws for Chapter when necessary
+##### Chapter Vice President of Entrepreneurship - Elected by Chapter
+* Term: One Year, Cannot serve for two consecutive terms
+* Job: Runs Weekly Meetings along with VP of TED-Ed
+##### Chapter Vice President of TED-Ed - Elected by Chapter
+* Term: One Year, Cannot serve for two consecutive terms
+* Job: Runs Weekly Meetings along with VP of Entrepreneurship
+##### Chapter Vice President of Applications and Gaming - Elected by Chapter
+* Term: One Year, Cannot serve for two consecutive terms
+* Job: (Before inception of VR League) Helps Chairperson design VR League, (After VR League inception) Runs Chapter’s division of the C.A.L.M. VR League, Expected to encourage the design and execution of new app ideas that further C.A.L.M.’s cause
 
 ## Article V: Other Information
 ### Article V.I: Meetings
@@ -41,5 +41,5 @@ All officers of a chapter, excluding the Parent Chair for middle school chapters
 ### Article V.III: Authorities
 All C.A.L.M.’s bylaws and policies will comply with all applicable laws in its local jurisdiction and the rules and regulations of TED-Ed.
 For authority on all matters not covered by these bylaws, the following documents will apply, in this order of priority:
-First - C.A.L.M. Foundation’s Constitution (Established by September 31st, 2017)
-Second - C.A.L.M. Chapter Constitution (This Document)
+* First - C.A.L.M. Foundation’s Constitution (Established by September 31st, 2017)
+* Second - C.A.L.M. Chapter Constitution (This Document)
