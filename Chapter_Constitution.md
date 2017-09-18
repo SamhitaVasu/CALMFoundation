@@ -13,6 +13,7 @@ Members must be part of at least one of C.A.L.M.’s tracks and attend most meet
 
 ## Article IV: Officers
 All officers have the responsibility to provide weekly updates (30 seconds to 1 minute long) on Twitter with the hashtags:      *#CALM[SCHOOL_NAME]Chapter* and *#goCALM*
+
 Updates must be made under the officer’s Twitter handle for accountability purposes.
 These updates are for ensuring transparency and communication.
 ##### Chapter Teacher Advisor - Selected on founding
