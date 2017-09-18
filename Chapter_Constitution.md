@@ -20,7 +20,7 @@ These updates are for ensuring transparency and communication.
 * Job: Enforces school’s rules and regulations along with TED-Ed rules and regulations
 ##### Chapter President - Elected by Chapter
 * Term: One Year, Cannot serve for two consecutive terms
-* Job: Enforces C.A.L.M.’s bylaws, Runs assigned C.A.L.M. Chapter, Establishes specific bylaws for Chapter when necessary
+* Job: Enforces C.A.L.M.’s bylaws, Runs assigned C.A.L.M. Chapter, Establishes specific bylaws for Chapter when necessary, Runs chapter website
 ##### Chapter Vice President of Entrepreneurship - Elected by Chapter
 * Term: One Year, Cannot serve for two consecutive terms
 * Job: Runs Weekly Meetings along with VP of TED-Ed
