@@ -41,5 +41,5 @@ All officers of a chapter, excluding the Parent Chair for middle school chapters
 ### Article V.III: Authorities
 All C.A.L.M.’s bylaws and policies will comply with all applicable laws in its local jurisdiction and the rules and regulations of TED-Ed.
 For authority on all matters not covered by these bylaws, the following documents will apply, in this order of priority:
-* First - C.A.L.M. Foundation’s Constitution (Established by September 31st, 2017)
+* First - C.A.L.M. Foundation’s Constitution (Established by September 30th, 2017)
 * Second - C.A.L.M. Chapter Constitution (This Document)
